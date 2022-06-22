@@ -6,3 +6,6 @@ let obj = {
 for(let key in obj){
       console.log(obj[key])
 }
+// Saymumin
+// 35
+// 900330687

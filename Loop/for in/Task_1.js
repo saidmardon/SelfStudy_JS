@@ -6,3 +6,6 @@ let obj = {
 for(let key in obj){
       console.log(key)
 }
+// name
+// age
+// phone

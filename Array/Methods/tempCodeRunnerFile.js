@@ -1,2 +1,1 @@
-let arr = names.split(", ") //разбивает строку на массив по заданному разделителю
-console.log(arr)
+console.log(`Элемент: ${item*2}, Индекс: ${ind}, Массив: ${array}`)
